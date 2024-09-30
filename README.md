@@ -1,7 +1,7 @@
 ## Project Name: **Auhandy**
 
 ## Deployed Link
-You can view the live version of the project at: [Auhandy Project](https://auhandy-bhavana.netlify.app/)
+You can view the live version of the project at: [Auhandy Project](https://addepalli-bhavana-auhandy.netlify.app/)
 
 ## Screenshots
 ### Desktop View

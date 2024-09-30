@@ -752,7 +752,7 @@ main {
 .contact-center {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 7rem;
+  gap: 3rem;
 }
 .contact iframe {
   width: 100%;
@@ -828,12 +828,12 @@ textarea:focus {
 .footer-links {
   background-color: var(--clr-grey-dark);
   padding: 2.5rem 0;
+}
+.footer-links li a {
+  color: var(--clr-white);
   text-transform: capitalize;
 }
-.footer-links li a{
-  color: var(--clr-white);
-}
-.footer-links li a:hover{
+.footer-links li a:hover {
   color: var(--clr-yellow);
 }
 .footer-links-center {
@@ -847,8 +847,11 @@ textarea:focus {
 .footer-links-one ul li span:first-child {
   color: var(--clr-yellow);
 }
-.footer-links-one ul li span:nth-child(2) {
+.footer-links-one ul li:nth-child(3) span {
   text-transform: lowercase;
+}
+.footer-links-one li span {
+  text-transform: capitalize;
 }
 .footer-links ul li {
   margin-bottom: 20px;

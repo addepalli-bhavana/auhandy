@@ -6,7 +6,7 @@ import { footerLinks3 } from "../utils/constants";
 const FooterLinks = () => {
   return (
     <footer className="footer-links">
-      <div className="footer-links-center section-center">
+      <div className="footer-links-center section-center"> 
         <div className="footer-links-one">
           <h4>contact us</h4>
           <ul>
